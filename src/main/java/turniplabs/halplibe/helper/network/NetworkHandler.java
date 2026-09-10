@@ -13,6 +13,7 @@ import net.minecraft.server.entity.player.PlayerServer;
 import org.jspecify.annotations.NonNull;
 import turniplabs.halplibe.HalpLibe;
 import turniplabs.halplibe.helper.EnvironmentHelper;
+import turniplabs.halplibe.util.HalpLibeUtils;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.*;
@@ -430,7 +431,7 @@ public final class NetworkHandler {
 
                     this.packetIds.put(messageClass, id);
                 } catch (ClassNotFoundException e) {
-                    HalpLibe.LOGGER.warn("NetworkMessage {} from server couldn't be found on client", className);
+                    HalpLibeUtils.LOGGER.warn("NetworkMessage {} from server couldn't be found on client", className);
                 }
             }
         }

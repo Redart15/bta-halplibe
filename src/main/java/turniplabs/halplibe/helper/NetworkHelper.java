@@ -3,6 +3,7 @@ package turniplabs.halplibe.helper;
 import net.minecraft.core.net.packet.Packet;
 import org.jspecify.annotations.NonNull;
 import turniplabs.halplibe.HalpLibe;
+import turniplabs.halplibe.util.HalpLibeUtils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -85,9 +86,9 @@ public final class NetworkHelper {
             addMapping.setAccessible(false);
 
             locked = true;
-            HalpLibe.LOGGER.info("Successfully registered packet {} with id {}", packet.getName(), latestId);
+            HalpLibeUtils.LOGGER.info("Successfully registered packet {} with id {}", packet.getName(), latestId);
         } catch (Throwable ignored) {
-            HalpLibe.LOGGER.warn("Packet Registration failed for packet {}", packet.getName());
+            HalpLibeUtils.LOGGER.warn("Packet Registration failed for packet {}", packet.getName());
         }
     }
 }

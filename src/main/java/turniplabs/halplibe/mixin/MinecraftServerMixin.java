@@ -17,6 +17,7 @@ import turniplabs.halplibe.event.defs.ServerEvents;
 import turniplabs.halplibe.helper.creativeInventory.CreativeInventoryRegistry;
 import turniplabs.halplibe.helper.network.NetworkHandler;
 import turniplabs.halplibe.util.GameStartEntrypoint;
+import turniplabs.halplibe.util.HalpLibeUtils;
 import turniplabs.halplibe.util.RecipeEntrypoint;
 
 @Environment(EnvType.SERVER)
@@ -56,10 +57,10 @@ public abstract class MinecraftServerMixin {
     public void printRecovery(CallbackInfoReturnable<Boolean> cir) {
         //before game start is too early and after game start is too late so thats why this is here
         if (HalpLibe.CONFIG.getBoolean("recoveryMode")) {
-            HalpLibe.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode"));
-            HalpLibe.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode.text"));
-            HalpLibe.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode.text2"));
-            HalpLibe.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode.action1"));
+            HalpLibeUtils.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode"));
+            HalpLibeUtils.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode.text"));
+            HalpLibeUtils.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode.text2"));
+            HalpLibeUtils.LOGGER.warn(I18n.getInstance().translateKey("halplibe.recoveryMode.action1"));
         }
     }
 

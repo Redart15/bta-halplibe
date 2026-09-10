@@ -24,12 +24,13 @@ public class Sound3 {
 
     public static void load() {
         Minecraft minecraft = Minecraft.getMinecraft();
-        Path halplibe = new File(minecraft.getMinecraftDir(), "resources/halplibe").toPath();
-        Path sounds = halplibe.resolve("sounds");
+        Path source = new File(minecraft.getMinecraftDir(), "resources/sound3").toPath();
+        Path desc = new File(minecraft.getMinecraftDir(), "resources/halplibe/").toPath();
+        Path sounds = desc.resolve("sounds");
         try {
             // change the top directory and move all files in halplibe/sounds
             Files.createDirectories(sounds);
-            try (DirectoryStream<Path> stream = Files.newDirectoryStream(halplibe)) {
+            try (DirectoryStream<Path> stream = Files.newDirectoryStream(source)) {
                 for (Path path : stream) {
                     if (!path.equals(sounds)) {
                         Files.move(path, sounds.resolve(path.getFileName()));

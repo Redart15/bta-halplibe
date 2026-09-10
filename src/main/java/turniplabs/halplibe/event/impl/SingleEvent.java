@@ -5,6 +5,7 @@ import org.jspecify.annotations.Nullable;
 import turniplabs.halplibe.HalpLibe;
 import turniplabs.halplibe.event.Emitter;
 import turniplabs.halplibe.event.Event;
+import turniplabs.halplibe.util.HalpLibeUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,7 +24,7 @@ public class SingleEvent<L> implements Event<L>, Emitter<L> {
     @Override
     public void emit(@NonNull final Consumer<L> consumer) {
         if (listeners == null) {
-            HalpLibe.LOGGER.warn("Attempted to call '{}' SingleEvent multiple times.", name);
+            HalpLibeUtils.LOGGER.warn("Attempted to call '{}' SingleEvent multiple times.", name);
             return;
         }
 
@@ -34,7 +35,7 @@ public class SingleEvent<L> implements Event<L>, Emitter<L> {
     @Override
     public void listen(@NonNull final L listener) {
         if (listeners == null) {
-            HalpLibe.LOGGER.warn("Attempted to add listener to '{}' SingleEvent too late.", name);
+            HalpLibeUtils.LOGGER.warn("Attempted to add listener to '{}' SingleEvent too late.", name);
             return;
         }
 
