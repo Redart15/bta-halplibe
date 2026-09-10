@@ -1,6 +1,6 @@
 {
   "ambient.cave.cave": {
-    "subtitle": "subtitles.ambient.cave.cave",
+    "subtitle": "subtitles.halplibe.ambient.cave.cave",
     "sounds": [
       "ambient/cave/cave1.ogg",
       "ambient/cave/cave10.ogg",
@@ -18,7 +18,7 @@
     ]
   },
   "ambient.weather.rain": {
-    "subtitle": "subtitles.ambient.weather.rain",
+    "subtitle": "subtitles.halplibe.ambient.weather.rain",
     "sounds": [
       "ambient/weather/rain1.ogg",
       "ambient/weather/rain2.ogg",
@@ -27,7 +27,7 @@
     ]
   },
   "ambient.weather.thunder": {
-    "subtitle": "subtitles.ambient.weather.thunder",
+    "subtitle": "subtitles.halplibe.ambient.weather.thunder",
     "sounds": [
       "ambient/weather/thunder1.ogg",
       "ambient/weather/thunder2.ogg",
@@ -35,19 +35,19 @@
     ]
   },
   "damage.fall.big": {
-    "subtitle": "subtitles.damage.fall.big",
+    "subtitle": "subtitles.halplibe.damage.fall.big",
     "sounds": [
       "damage/fallbig.ogg"
     ]
   },
   "damage.fall.small": {
-    "subtitle": "subtitles.damage.fall.small",
+    "subtitle": "subtitles.halplibe.damage.fall.small",
     "sounds": [
       "damage/fallsmall.ogg"
     ]
   },
   "damage.hurt": {
-    "subtitle": "subtitles.damage.hurt",
+    "subtitle": "subtitles.halplibe.damage.hurt",
     "sounds": [
       "damage/hit1.ogg",
       "damage/hit2.ogg",
@@ -55,7 +55,7 @@
     ]
   },
   "dig.cloth": {
-    "subtitle": "subtitles.dig.cloth",
+    "subtitle": "subtitles.halplibe.dig.cloth",
     "sounds": [
       "dig/cloth1.ogg",
       "dig/cloth2.ogg",
@@ -64,7 +64,7 @@
     ]
   },
   "dig.grass": {
-    "subtitle": "subtitles.dig.grass",
+    "subtitle": "subtitles.halplibe.dig.grass",
     "sounds": [
       "dig/grass1.ogg",
       "dig/grass2.ogg",
@@ -73,7 +73,7 @@
     ]
   },
   "dig.gravel": {
-    "subtitle": "subtitles.dig.gravel",
+    "subtitle": "subtitles.halplibe.dig.gravel",
     "sounds": [
       "dig/gravel1.ogg",
       "dig/gravel2.ogg",
@@ -82,7 +82,7 @@
     ]
   },
   "dig.sand": {
-    "subtitle": "subtitles.dig.sand",
+    "subtitle": "subtitles.halplibe.dig.sand",
     "sounds": [
       "dig/sand1.ogg",
       "dig/sand2.ogg",
@@ -91,7 +91,7 @@
     ]
   },
   "dig.snow": {
-    "subtitle": "subtitles.dig.snow",
+    "subtitle": "subtitles.halplibe.dig.snow",
     "sounds": [
       "dig/snow1.ogg",
       "dig/snow2.ogg",
@@ -100,7 +100,7 @@
     ]
   },
   "dig.stone": {
-    "subtitle": "subtitles.dig.stone",
+    "subtitle": "subtitles.halplibe.dig.stone",
     "sounds": [
       "dig/stone1.ogg",
       "dig/stone2.ogg",
@@ -109,7 +109,7 @@
     ]
   },
   "dig.wood": {
-    "subtitle": "subtitles.dig.wood",
+    "subtitle": "subtitles.halplibe.dig.wood",
     "sounds": [
       "dig/wood1.ogg",
       "dig/wood2.ogg",
@@ -118,80 +118,80 @@
     ]
   },
   "fire.fire": {
-    "subtitle": "subtitles.fire.fire",
+    "subtitle": "subtitles.halplibe.fire.fire",
     "sounds": [
       "fire/fire.ogg"
     ]
   },
   "fire.ignite": {
-    "subtitle": "subtitles.fire.ignite",
+    "subtitle": "subtitles.halplibe.fire.ignite",
     "sounds": [
       "fire/ignite.ogg"
     ]
   },
   "fireworks.blast": {
-    "subtitle": "subtitles.fireworks.blast",
+    "subtitle": "subtitles.halplibe.fireworks.blast",
     "sounds": [
       "fireworks/blast1.ogg"
     ]
   },
   "fireworks.blast.far": {
-    "subtitle": "subtitles.fireworks.blast.far",
+    "subtitle": "subtitles.halplibe.fireworks.blast.far",
     "sounds": [
       "fireworks/blast_far1.ogg"
     ]
   },
   "fireworks.largeBlast": {
-    "subtitle": "subtitles.fireworks.largeBlast",
+    "subtitle": "subtitles.halplibe.fireworks.blast.large",
     "sounds": [
       "fireworks/largeBlast1.ogg"
     ]
   },
   "fireworks.largeBlast.far": {
-    "subtitle": "subtitles.fireworks.largeBlast.far",
+    "subtitle": "subtitles.halplibe.fireworks.blast.large.far",
     "sounds": [
       "fireworks/largeBlast_far1.ogg"
     ]
   },
   "fireworks.launch": {
-    "subtitle": "subtitles.fireworks.launch",
+    "subtitle": "subtitles.halplibe.fireworks.launch",
     "sounds": [
       "fireworks/launch1.ogg"
     ]
   },
   "fireworks.twinkle": {
-    "subtitle": "subtitles.fireworks.twinkle",
+    "subtitle": "subtitles.halplibe.fireworks.twinkle",
     "sounds": [
       "fireworks/twinkle1.ogg"
     ]
   },
   "fireworks.twinkle.far": {
-    "subtitle": "subtitles.fireworks.twinkle.far",
+    "subtitle": "subtitles.halplibe.fireworks.twinkle.far",
     "sounds": [
       "fireworks/twinkle_far1.ogg"
     ]
   },
   "liquid.lava": {
-    "subtitle": "subtitles.liquid.lava",
+    "subtitle": "subtitles.halplibe.liquid.lava",
     "sounds": [
       "liquid/lava.ogg"
     ]
   },
   "liquid.lava.pop": {
-    "subtitle": "subtitles.liquid.lava.pop",
+    "subtitle": "subtitles.halplibe.liquid.lava.pop",
     "sounds": [
       "liquid/lavapop.ogg"
     ]
   },
   "liquid.splash": {
-    "subtitle": "subtitles.liquid.splash",
+    "subtitle": "subtitles.halplibe.liquid.splash",
     "sounds": [
       "liquid/splash.ogg",
       "liquid/splash2.ogg"
     ]
   },
   "liquid.swim": {
-    "subtitle": "subtitles.liquid.swim",
+    "subtitle": "subtitles.halplibe.liquid.swim",
     "sounds": [
       "liquid/swim1.ogg",
       "liquid/swim2.ogg",
@@ -200,31 +200,31 @@
     ]
   },
   "liquid.water": {
-    "subtitle": "subtitles.liquid.water",
+    "subtitle": "subtitles.halplibe.liquid.water",
     "sounds": [
       "liquid/water.ogg"
     ]
   },
   "minecart.base": {
-    "subtitle": "subtitles.minecart.base",
+    "subtitle": "subtitles.halplibe.minecart.base",
     "sounds": [
       "minecart/base.ogg"
     ]
   },
   "minecart.inside": {
-    "subtitle": "subtitles.minecart.inside",
+    "subtitle": "subtitles.halplibe.minecart.inside",
     "sounds": [
       "minecart/inside.ogg"
     ]
   },
   "mob.bat.death": {
-    "subtitle": "subtitles.mob.bat.death",
+    "subtitle": "subtitles.halplibe.mob.bat.death",
     "sounds": [
       "mob/bat/death.ogg"
     ]
   },
   "mob.bat.hurt": {
-    "subtitle": "subtitles.mob.bat.hurt",
+    "subtitle": "subtitles.halplibe.mob.bat.hurt",
     "sounds": [
       "mob/bat/hurt1.ogg",
       "mob/bat/hurt2.ogg",
@@ -233,7 +233,7 @@
     ]
   },
   "mob.bat.talk": {
-    "subtitle": "subtitles.mob.bat.talk",
+    "subtitle": "subtitles.halplibe.mob.bat.talk",
     "sounds": [
       "mob/bat/idle1.ogg",
       "mob/bat/idle2.ogg",
@@ -242,19 +242,19 @@
     ]
   },
   "mob.bat.wingflap": {
-    "subtitle": "subtitles.mob.bat.wingflap",
+    "subtitle": "subtitles.halplibe.mob.bat.wingflap",
     "sounds": [
       "mob/bat/loop.ogg"
     ]
   },
   "mob.bat.takeoff": {
-    "subtitle": "subtitles.mob.bat.takeoff",
+    "subtitle": "subtitles.halplibe.mob.bat.takeoff",
     "sounds": [
       "mob/bat/takeoff.ogg"
     ]
   },
   "mob.blaze.talk": {
-    "subtitle": "subtitles.mob.blaze.talk",
+    "subtitle": "subtitles.halplibe.mob.blaze.talk",
     "sounds": [
       "mob/blaze/breathe1.ogg",
       "mob/blaze/breathe2.ogg",
@@ -263,13 +263,13 @@
     ]
   },
   "mob.blaze.death": {
-    "subtitle": "subtitles.mob.blaze.death",
+    "subtitle": "subtitles.halplibe.mob.blaze.death",
     "sounds": [
       "mob/blaze/death.ogg"
     ]
   },
   "mob.blaze.hurt": {
-    "subtitle": "subtitles.mob.blaze.hurt",
+    "subtitle": "subtitles.halplibe.mob.blaze.hurt",
     "sounds": [
       "mob/blaze/hit1.ogg",
       "mob/blaze/hit2.ogg",
@@ -278,7 +278,7 @@
     ]
   },
   "mob.cat.hiss": {
-    "subtitle": "subtitles.mob.cat.hiss",
+    "subtitle": "subtitles.halplibe.mob.cat.hiss",
     "sounds": [
       "mob/cat/hiss1.ogg",
       "mob/cat/hiss2.ogg",
@@ -286,7 +286,7 @@
     ]
   },
   "mob.cat.hurt": {
-    "subtitle": "subtitles.mob.cat.hurt",
+    "subtitle": "subtitles.halplibe.mob.cat.hurt",
     "sounds": [
       "mob/cat/hitt1.ogg",
       "mob/cat/hitt2.ogg",
@@ -294,7 +294,7 @@
     ]
   },
   "mob.cat.meow": {
-    "subtitle": "subtitles.mob.cat.meow",
+    "subtitle": "subtitles.halplibe.mob.cat.meow",
     "sounds": [
       "mob/cat/meow1.ogg",
       "mob/cat/meow2.ogg",
@@ -303,7 +303,7 @@
     ]
   },
   "mob.cat.purr": {
-    "subtitle": "subtitles.mob.cat.purr",
+    "subtitle": "subtitles.halplibe.mob.cat.purr",
     "sounds": [
       "mob/cat/purr1.ogg",
       "mob/cat/purr2.ogg",
@@ -311,27 +311,27 @@
     ]
   },
   "mob.cat.purreow": {
-    "subtitle": "subtitles.mob.cat.purreow",
+    "subtitle": "subtitles.halplibe.mob.cat.purreow",
     "sounds": [
       "mob/cat/purreow1.ogg",
       "mob/cat/purreow2.ogg"
     ]
   },
   "mob.chicken.hurt": {
-    "subtitle": "subtitles.mob.chicken.hurt",
+    "subtitle": "subtitles.halplibe.mob.chicken.hurt",
     "sounds": [
       "mob/chicken/hurt1.ogg",
       "mob/chicken/hurt2.ogg"
     ]
   },
   "mob.chicken.plop.egg": {
-    "subtitle": "subtitles.mob.chicken.plop.egg",
+    "subtitle": "subtitles.halplibe.mob.chicken.plop.egg",
     "sounds": [
       "mob/chicken/plop.ogg"
     ]
   },
   "mob.chicken.talk": {
-    "subtitle": "subtitles.mob.chicken.talk",
+    "subtitle": "subtitles.halplibe.mob.chicken.talk",
     "sounds": [
       "mob/chicken/say1.ogg",
       "mob/chicken/say2.ogg",
@@ -339,14 +339,14 @@
     ]
   },
   "mob.chicken.walk": {
-    "subtitle": "subtitles.mob.chicken.step",
+    "subtitle": "subtitles.halplibe.mob.chicken.step",
     "sounds": [
       "mob/chicken/step1.ogg",
       "mob/chicken/step2.ogg"
     ]
   },
   "mob.cow.hurt": {
-    "subtitle": "subtitles.mob.cow.hurt",
+    "subtitle": "subtitles.halplibe.mob.cow.hurt",
     "sounds": [
       "mob/cow/hurt1.ogg",
       "mob/cow/hurt2.ogg",
@@ -354,7 +354,7 @@
     ]
   },
   "mob.cow.talk": {
-    "subtitle": "subtitles.mob.cow.talk",
+    "subtitle": "subtitles.halplibe.mob.cow.talk",
     "sounds": [
       "mob/cow/say1.ogg",
       "mob/cow/say2.ogg",
@@ -363,7 +363,7 @@
     ]
   },
   "mob.cow.walk": {
-    "subtitle": "subtitles.mob.cow.step",
+    "subtitle": "subtitles.halplibe.mob.cow.step",
     "sounds": [
       "mob/cow/step1.ogg",
       "mob/cow/step2.ogg",
@@ -372,13 +372,13 @@
     ]
   },
   "mob.creeper.death": {
-    "subtitle": "subtitles.mob.creeper.death",
+    "subtitle": "subtitles.halplibe.mob.creeper.death",
     "sounds": [
       "mob/creeper/death.ogg"
     ]
   },
   "mob.creeper.hurt": {
-    "subtitle": "subtitles.mob.creeper.hurt",
+    "subtitle": "subtitles.halplibe.mob.creeper.hurt",
     "sounds": [
       "mob/creeper/say1.ogg",
       "mob/creeper/say2.ogg",
@@ -387,13 +387,13 @@
     ]
   },
   "mob.enderdragon.death": {
-    "subtitle": "subtitles.mob.enderdragon.death",
+    "subtitle": "subtitles.halplibe.mob.enderdragon.death",
     "sounds": [
       "mob/enderdragon/end.ogg"
     ]
   },
   "mob.enderdragon.talk": {
-    "subtitle": "subtitles.mob.enderdragon.talk",
+    "subtitle": "subtitles.halplibe.mob.enderdragon.talk",
     "sounds": [
       "mob/enderdragon/growl1.ogg",
       "mob/enderdragon/growl2.ogg",
@@ -402,7 +402,7 @@
     ]
   },
   "mob.enderdragon.hurt": {
-    "subtitle": "subtitles.mob.enderdragon.hurt",
+    "subtitle": "subtitles.halplibe.mob.enderdragon.hurt",
     "sounds": [
       "mob/enderdragon/hit1.ogg",
       "mob/enderdragon/hit2.ogg",
@@ -411,7 +411,7 @@
     ]
   },
   "mob.enderdragon.wings": {
-    "subtitle": "subtitles.mob.enderdragon.wings",
+    "subtitle": "subtitles.halplibe.mob.enderdragon.wings",
     "sounds": [
       "mob/enderdragon/wings1.ogg",
       "mob/enderdragon/wings2.ogg",
@@ -422,13 +422,13 @@
     ]
   },
   "mob.endermen.death": {
-    "subtitle": "subtitles.mob.endermen.death",
+    "subtitle": "subtitles.halplibe.mob.endermen.death",
     "sounds": [
       "mob/endermen/death.ogg"
     ]
   },
   "mob.endermen.hurt": {
-    "subtitle": "subtitles.mob.endermen.hurt",
+    "subtitle": "subtitles.halplibe.mob.endermen.hurt",
     "sounds": [
       "mob/endermen/hit1.ogg",
       "mob/endermen/hit2.ogg",
@@ -437,7 +437,7 @@
     ]
   },
   "mob.endermen.talk": {
-    "subtitle": "subtitles.mob.endermen.talk",
+    "subtitle": "subtitles.halplibe.mob.endermen.talk",
     "sounds": [
       "mob/endermen/idle1.ogg",
       "mob/endermen/idle2.ogg",
@@ -447,14 +447,14 @@
     ]
   },
   "mob.endermen.teleport": {
-    "subtitle": "subtitles.mob.endermen.teleport",
+    "subtitle": "subtitles.halplibe.mob.endermen.teleport",
     "sounds": [
       "mob/endermen/portal.ogg",
       "mob/endermen/portal2.ogg"
     ]
   },
   "mob.endermen.scream": {
-    "subtitle": "subtitles.mob.endermen.scream",
+    "subtitle": "subtitles.halplibe.mob.endermen.scream",
     "sounds": [
       "mob/endermen/scream1.ogg",
       "mob/endermen/scream2.ogg",
@@ -463,37 +463,37 @@
     ]
   },
   "mob.endermen.angry": {
-    "subtitle": "subtitles.mob.endermen.angry",
+    "subtitle": "subtitles.halplibe.mob.endermen.angry",
     "sounds": [
       "mob/endermen/stare.ogg"
     ]
   },
   "mob.ghast.affectionate.scream": {
-    "subtitle": "subtitles.mob.ghast.affectionate.scream",
+    "subtitle": "subtitles.halplibe.mob.ghast.affectionate.scream",
     "sounds": [
       "mob/ghast/affectionate scream.ogg"
     ]
   },
   "mob.ghast.fire.fireball": {
-    "subtitle": "subtitles.mob.ghast.fire.fireball",
+    "subtitle": "subtitles.halplibe.mob.ghast.fire.fireball",
     "sounds": [
       "mob/ghast/charge.ogg"
     ]
   },
   "mob.ghast.death": {
-    "subtitle": "subtitles.mob.ghast.death",
+    "subtitle": "subtitles.halplibe.mob.ghast.death",
     "sounds": [
       "mob/ghast/death.ogg"
     ]
   },
   "mob.ghast.fireball": {
-    "subtitle": "subtitles.mob.ghast.fireball",
+    "subtitle": "subtitles.halplibe.mob.ghast.fireball",
     "sounds": [
       "mob/ghast/fireball4.ogg"
     ]
   },
   "mob.ghast.talk": {
-    "subtitle": "subtitles.mob.ghast.talk",
+    "subtitle": "subtitles.halplibe.mob.ghast.talk",
     "sounds": [
       "mob/ghast/moan1.ogg",
       "mob/ghast/moan2.ogg",
@@ -505,7 +505,7 @@
     ]
   },
   "mob.ghast.scream": {
-    "subtitle": "subtitles.mob.ghast.scream",
+    "subtitle": "subtitles.halplibe.mob.ghast.scream",
     "sounds": [
       "mob/ghast/scream1.ogg",
       "mob/ghast/scream2.ogg",
@@ -515,13 +515,13 @@
     ]
   },
   "mob.irongolem.death": {
-    "subtitle": "subtitles.mob.irongolem.death",
+    "subtitle": "subtitles.halplibe.mob.irongolem.death",
     "sounds": [
       "mob/irongolem/death.ogg"
     ]
   },
   "mob.irongolem.hurt": {
-    "subtitle": "subtitles.mob.irongolem.hurt",
+    "subtitle": "subtitles.halplibe.mob.irongolem.hurt",
     "sounds": [
       "mob/irongolem/hit1.ogg",
       "mob/irongolem/hit2.ogg",
@@ -530,13 +530,13 @@
     ]
   },
   "mob.irongolem.throw": {
-    "subtitle": "subtitles.mob.irongolem.throw",
+    "subtitle": "subtitles.halplibe.mob.irongolem.throw",
     "sounds": [
       "mob/irongolem/throw.ogg"
     ]
   },
   "mob.irongolem.walk": {
-    "subtitle": "subtitles.mob.irongolem.walk",
+    "subtitle": "subtitles.halplibe.mob.irongolem.walk",
     "sounds": [
       "mob/irongolem/walk1.ogg",
       "mob/irongolem/walk2.ogg",
@@ -545,7 +545,7 @@
     ]
   },
   "mob.magmacube.walk": {
-    "subtitle": "subtitles.mob.magmacube.walk",
+    "subtitle": "subtitles.halplibe.mob.magmacube.walk",
     "sounds": [
       "mob/magmacube/big1.ogg",
       "mob/magmacube/big2.ogg",
@@ -554,7 +554,7 @@
     ]
   },
   "mob.magmacube.jump": {
-    "subtitle": "subtitles.mob.magmacube.jump",
+    "subtitle": "subtitles.halplibe.mob.magmacube.jump",
     "sounds": [
       "mob/magmacube/jump1.ogg",
       "mob/magmacube/jump2.ogg",
@@ -563,7 +563,7 @@
     ]
   },
   "mob.magmacube.walk.small": {
-    "subtitle": "subtitles.mob.magmacube.walk.small",
+    "subtitle": "subtitles.halplibe.mob.magmacube.walk.small",
     "sounds": [
       "mob/magmacube/small1.ogg",
       "mob/magmacube/small2.ogg",
@@ -573,13 +573,13 @@
     ]
   },
   "mob.pig.death": {
-    "subtitle": "subtitles.mob.pig.death",
+    "subtitle": "subtitles.halplibe.mob.pig.death",
     "sounds": [
       "mob/pig/death.ogg"
     ]
   },
   "mob.pig.talk": {
-    "subtitle": "subtitles.mob.pig.talk",
+    "subtitle": "subtitles.halplibe.mob.pig.talk",
     "sounds": [
       "mob/pig/say1.ogg",
       "mob/pig/say2.ogg",
@@ -587,7 +587,7 @@
     ]
   },
   "mob.pig.walk": {
-    "subtitle": "subtitles.mob.pig.walk",
+    "subtitle": "subtitles.halplibe.mob.pig.walk",
     "sounds": [
       "mob/pig/step1.ogg",
       "mob/pig/step2.ogg",
@@ -597,7 +597,7 @@
     ]
   },
   "mob.sheep.talk": {
-    "subtitle": "subtitles.mob.sheep.talk",
+    "subtitle": "subtitles.halplibe.mob.sheep.talk",
     "sounds": [
       "mob/sheep/say1.ogg",
       "mob/sheep/say2.ogg",
@@ -605,13 +605,13 @@
     ]
   },
   "mob.sheep.shear": {
-    "subtitle": "subtitles.mob.sheep.shear",
+    "subtitle": "subtitles.halplibe.mob.sheep.shear",
     "sounds": [
       "mob/sheep/shear.ogg"
     ]
   },
   "mob.sheep.walk": {
-    "subtitle": "subtitles.mob.sheep.walk",
+    "subtitle": "subtitles.halplibe.mob.sheep.walk",
     "sounds": [
       "mob/sheep/step1.ogg",
       "mob/sheep/step2.ogg",
@@ -621,7 +621,7 @@
     ]
   },
   "mob.silverfish.hurt": {
-    "subtitle": "subtitles.mob.silverfish.hurt",
+    "subtitle": "subtitles.halplibe.mob.silverfish.hurt",
     "sounds": [
       "mob/silverfish/hit1.ogg",
       "mob/silverfish/hit2.ogg",
@@ -629,13 +629,13 @@
     ]
   },
   "mob.silverfish.death": {
-    "subtitle": "subtitles.mob.silverfish.death",
+    "subtitle": "subtitles.halplibe.mob.silverfish.death",
     "sounds": [
       "mob/silverfish/kill.ogg"
     ]
   },
   "mob.silverfish.talk": {
-    "subtitle": "subtitles.mob.silverfish.talk",
+    "subtitle": "subtitles.halplibe.mob.silverfish.talk",
     "sounds": [
       "mob/silverfish/say1.ogg",
       "mob/silverfish/say2.ogg",
@@ -644,7 +644,7 @@
     ]
   },
   "mob.silverfish.walk": {
-    "subtitle": "subtitles.mob.silverfish.walk",
+    "subtitle": "subtitles.halplibe.mob.silverfish.walk",
     "sounds": [
       "mob/silverfish/step1.ogg",
       "mob/silverfish/step2.ogg",
@@ -653,13 +653,13 @@
     ]
   },
   "mob.skeleton.death": {
-    "subtitle": "subtitles.mob.skeleton.death",
+    "subtitle": "subtitles.halplibe.mob.skeleton.death",
     "sounds": [
       "mob/skeleton/death.ogg"
     ]
   },
   "mob.skeleton.hurt": {
-    "subtitle": "subtitles.mob.skeleton.hurt",
+    "subtitle": "subtitles.halplibe.mob.skeleton.hurt",
     "sounds": [
       "mob/skeleton/hurt1.ogg",
       "mob/skeleton/hurt2.ogg",
@@ -668,7 +668,7 @@
     ]
   },
   "mob.skeleton.talk": {
-    "subtitle": "subtitles.mob.skeleton.talk",
+    "subtitle": "subtitles.halplibe.mob.skeleton.talk",
     "sounds": [
       "mob/skeleton/say1.ogg",
       "mob/skeleton/say2.ogg",
@@ -676,7 +676,7 @@
     ]
   },
   "mob.skeleton.walk": {
-    "subtitle": "subtitles.mob.skeleton.walk",
+    "subtitle": "subtitles.halplibe.mob.skeleton.walk",
     "sounds": [
       "mob/skeleton/step1.ogg",
       "mob/skeleton/step2.ogg",
@@ -685,14 +685,14 @@
     ]
   },
   "mob.slime.jump": {
-    "subtitle": "subtitles.mob.slime.jump",
+    "subtitle": "subtitles.halplibe.mob.slime.jump",
     "sounds": [
       "mob/slime/attack1.ogg",
       "mob/slime/attack2.ogg"
     ]
   },
   "mob.slime.walk": {
-    "subtitle": "subtitles.mob.slime.walk",
+    "subtitle": "subtitles.halplibe.mob.slime.walk",
     "sounds": [
       "mob/slime/big1.ogg",
       "mob/slime/big2.ogg",
@@ -701,7 +701,7 @@
     ]
   },
   "mob.slime.walk.small": {
-    "subtitle": "subtitles.mob.slime.walk.small",
+    "subtitle": "subtitles.halplibe.mob.slime.walk.small",
     "sounds": [
       "mob/slime/small1.ogg",
       "mob/slime/small2.ogg",
@@ -711,13 +711,13 @@
     ]
   },
   "mob.spider.death": {
-    "subtitle": "subtitles.mob.spider.death",
+    "subtitle": "subtitles.halplibe.mob.spider.death",
     "sounds": [
       "mob/spider/death.ogg"
     ]
   },
   "mob.spider.talk": {
-    "subtitle": "subtitles.mob.spider.talk",
+    "subtitle": "subtitles.halplibe.mob.spider.talk",
     "sounds": [
       "mob/spider/say1.ogg",
       "mob/spider/say2.ogg",
@@ -726,7 +726,7 @@
     ]
   },
   "mob.spider.walk": {
-    "subtitle": "subtitles.mob.spider.walk",
+    "subtitle": "subtitles.halplibe.mob.spider.walk",
     "sounds": [
       "mob/spider/step1.ogg",
       "mob/spider/step2.ogg",
@@ -735,13 +735,13 @@
     ]
   },
   "mob.wither.death": {
-    "subtitle": "subtitles.mob.wither.death",
+    "subtitle": "subtitles.halplibe.mob.wither.death",
     "sounds": [
       "mob/wither/death.ogg"
     ]
   },
   "mob.wither.hurt": {
-    "subtitle": "subtitles.mob.wither.hurt",
+    "subtitle": "subtitles.halplibe.mob.wither.hurt",
     "sounds": [
       "mob/wither/hurt1.ogg",
       "mob/wither/hurt2.ogg",
@@ -750,7 +750,7 @@
     ]
   },
   "mob.wither.talk": {
-    "subtitle": "subtitles.mob.wither.talk",
+    "subtitle": "subtitles.halplibe.mob.wither.talk",
     "sounds": [
       "mob/wither/idle1.ogg",
       "mob/wither/idle2.ogg",
@@ -759,19 +759,19 @@
     ]
   },
   "mob.wither.shoot.skull": {
-    "subtitle": "subtitles.mob.wither.shoot.skull",
+    "subtitle": "subtitles.halplibe.mob.wither.shoot.skull",
     "sounds": [
       "mob/wither/shoot.ogg"
     ]
   },
   "mob.wither.spawn": {
-    "subtitle": "subtitles.mob.wither.spawn",
+    "subtitle": "subtitles.halplibe.mob.wither.spawn",
     "sounds": [
       "mob/wither/spawn.ogg"
     ]
   },
   "mob.wolf.talk": {
-    "subtitle": "subtitles.mob.wolf.talk",
+    "subtitle": "subtitles.halplibe.mob.wolf.talk",
     "sounds": [
       "mob/wolf/bark1.ogg",
       "mob/wolf/bark2.ogg",
@@ -779,13 +779,13 @@
     ]
   },
   "mob.wolf.death": {
-    "subtitle": "subtitles.mob.wolf.death",
+    "subtitle": "subtitles.halplibe.mob.wolf.death",
     "sounds": [
       "mob/wolf/death.ogg"
     ]
   },
   "mob.wolf.growl": {
-    "subtitle": "subtitles.mob.wolf.growl",
+    "subtitle": "subtitles.halplibe.mob.wolf.growl",
     "sounds": [
       "mob/wolf/growl1.ogg",
       "mob/wolf/growl2.ogg",
@@ -793,14 +793,14 @@
     ]
   },
   "mob.wolf.howl": {
-    "subtitle": "subtitles.mob.wolf.howl",
+    "subtitle": "subtitles.halplibe.mob.wolf.howl",
     "sounds": [
       "mob/wolf/howl1.ogg",
       "mob/wolf/howl2.ogg"
     ]
   },
   "mob.wolf.hurt": {
-    "subtitle": "subtitles.mob.wolf.hurt",
+    "subtitle": "subtitles.halplibe.mob.wolf.hurt",
     "sounds": [
       "mob/wolf/hurt1.ogg",
       "mob/wolf/hurt2.ogg",
@@ -808,19 +808,19 @@
     ]
   },
   "mob.wolf.panting": {
-    "subtitle": "subtitles.mob.wolf.panting",
+    "subtitle": "subtitles.halplibe.mob.wolf.panting",
     "sounds": [
       "mob/wolf/panting.ogg"
     ]
   },
   "mob.wolf.shake": {
-    "subtitle": "subtitles.mob.wolf.shake",
+    "subtitle": "subtitles.halplibe.mob.wolf.shake",
     "sounds": [
       "mob/wolf/shake.ogg"
     ]
   },
   "mob.wolf.walk": {
-    "subtitle": "subtitles.mob.wolf.walk",
+    "subtitle": "subtitles.halplibe.mob.wolf.walk",
     "sounds": [
       "mob/wolf/step1.ogg",
       "mob/wolf/step2.ogg",
@@ -830,32 +830,32 @@
     ]
   },
   "mob.wolf.whine": {
-    "subtitle": "subtitles.mob.wolf.whine",
+    "subtitle": "subtitles.halplibe.mob.wolf.whine",
     "sounds": [
       "mob/wolf/whine.ogg"
     ]
   },
   "mob.zombie.death": {
-    "subtitle": "subtitles.mob.zombie.death",
+    "subtitle": "subtitles.halplibe.mob.zombie.death",
     "sounds": [
       "mob/zombie/death.ogg"
     ]
   },
   "mob.zombie.hurt": {
-    "subtitle": "subtitles.mob.zombie.hurt",
+    "subtitle": "subtitles.halplibe.mob.zombie.hurt",
     "sounds": [
       "mob/zombie/hurt1.ogg",
       "mob/zombie/hurt2.ogg"
     ]
   },
   "mob.zombie.infect": {
-    "subtitle": "subtitles.mob.zombie.infect",
+    "subtitle": "subtitles.halplibe.mob.zombie.infect",
     "sounds": [
       "mob/zombie/infect.ogg"
     ]
   },
   "mob.zombie.metal.bang": {
-    "subtitle": "subtitles.mob.zombie.metal.bang",
+    "subtitle": "subtitles.halplibe.mob.zombie.metal.bang",
     "sounds": [
       "mob/zombie/metal1.ogg",
       "mob/zombie/metal2.ogg",
@@ -863,13 +863,13 @@
     ]
   },
   "mob.zombie.remedy": {
-    "subtitle": "subtitles.mob.zombie.remedy",
+    "subtitle": "subtitles.halplibe.mob.zombie.remedy",
     "sounds": [
       "mob/zombie/remedy.ogg"
     ]
   },
   "mob.zombie.talk": {
-    "subtitle": "subtitles.mob.zombie.talk",
+    "subtitle": "subtitles.halplibe.mob.zombie.talk",
     "sounds": [
       "mob/zombie/say1.ogg",
       "mob/zombie/say2.ogg",
@@ -877,7 +877,7 @@
     ]
   },
   "mob.zombie.walk": {
-    "subtitle": "subtitles.mob.zombie.walk",
+    "subtitle": "subtitles.halplibe.mob.zombie.walk",
     "sounds": [
       "mob/zombie/step1.ogg",
       "mob/zombie/step2.ogg",
@@ -887,13 +887,13 @@
     ]
   },
   "mob.zombie.cure": {
-    "subtitle": "subtitles.mob.zombie.cure",
+    "subtitle": "subtitles.halplibe.mob.zombie.cure",
     "sounds": [
       "mob/zombie/unfect.ogg"
     ]
   },
   "mob.zombie.wood.bang": {
-    "subtitle": "subtitles.mob.zombie.bang.wood",
+    "subtitle": "subtitles.halplibe.mob.zombie.wood.bang",
     "sounds": [
       "mob/zombie/wood1.ogg",
       "mob/zombie/wood2.ogg",
@@ -902,13 +902,13 @@
     ]
   },
   "mob.zombie.wood.break": {
-    "subtitle": "subtitles.mob.zombie.wood.break",
+    "subtitle": "subtitles.halplibe.mob.zombie.wood.break",
     "sounds": [
       "mob/zombie/woodbreak.ogg"
     ]
   },
   "mob.zombiepig.talk": {
-    "subtitle": "subtitles.mob.zombiepig.talk",
+    "subtitle": "subtitles.halplibe.mob.zombiepig.talk",
     "sounds": [
       "mob/zombiepig/zpig1.ogg",
       "mob/zombiepig/zpig2.ogg",
@@ -917,7 +917,7 @@
     ]
   },
   "mob.zombiepig.growl": {
-    "subtitle": "subtitles.mob.zombiepig.growl",
+    "subtitle": "subtitles.halplibe.mob.zombiepig.growl",
     "sounds": [
       "mob/zombiepig/zpigangry1.ogg",
       "mob/zombiepig/zpigangry2.ogg",
@@ -926,104 +926,104 @@
     ]
   },
   "mob.zombiepig.death": {
-    "subtitle": "subtitles.mob.zombiepig.death",
+    "subtitle": "subtitles.halplibe.mob.zombiepig.death",
     "sounds": [
       "mob/zombiepig/zpigdeath.ogg"
     ]
   },
   "mob.zombiepig.hurt": {
-    "subtitle": "subtitles.mob.zombiepig.hurt",
+    "subtitle": "subtitles.halplibe.mob.zombiepig.hurt",
     "sounds": [
       "mob/zombiepig/zpighurt1.ogg",
       "mob/zombiepig/zpighurt2.ogg"
     ]
   },
   "note.bass": {
-    "subtitle": "subtitles.note.bass",
+    "subtitle": "subtitles.halplibe.note.bass",
     "sounds": [
       "note/bass.ogg"
     ]
   },
   "note.bassattack": {
-    "subtitle": "subtitles.note.bassattack",
+    "subtitle": "subtitles.halplibe.note.bassattack",
     "sounds": [
       "note/bassattack.ogg"
     ]
   },
   "note.bd": {
-    "subtitle": "subtitles.note.bd",
+    "subtitle": "subtitles.halplibe.note.bd",
     "sounds": [
       "note/bd.ogg"
     ]
   },
   "note.harp": {
-    "subtitle": "subtitles.note.harp",
+    "subtitle": "subtitles.halplibe.note.harp",
     "sounds": [
       "note/harp.ogg"
     ]
   },
   "note.hat": {
-    "subtitle": "subtitles.note.hat",
+    "subtitle": "subtitles.halplibe.note.hat",
     "sounds": [
       "note/hat.ogg"
     ]
   },
   "note.pling": {
-    "subtitle": "subtitles.note.pling",
+    "subtitle": "subtitles.halplibe.note.pling",
     "sounds": [
       "note/pling.ogg"
     ]
   },
   "note.snare": {
-    "subtitle": "subtitles.note.snare",
+    "subtitle": "subtitles.halplibe.note.snare",
     "sounds": [
       "note/snare.ogg"
     ]
   },
   "portal.loop": {
-    "subtitle": "subtitles.portal.loop",
+    "subtitle": "subtitles.halplibe.portal.loop",
     "sounds": [
       "portal/portal.ogg"
     ]
   },
   "portal.travel.end": {
-    "subtitle": "subtitles.portal.travel.end",
+    "subtitle": "subtitles.halplibe.portal.travel.end",
     "sounds": [
       "portal/travel.ogg"
     ]
   },
   "portal.travel.start": {
-    "subtitle": "subtitles.portal.travel.start",
+    "subtitle": "subtitles.halplibe.portal.travel.start",
     "sounds": [
       "portal/trigger.ogg"
     ]
   },
   "random.anvil.break": {
-    "subtitle": "subtitles.random.anvil_break",
+    "subtitle": "subtitles.halplibe.random.anvil_break",
     "sounds": [
       "random/anvil_break.ogg"
     ]
   },
   "random.anvil.land": {
-    "subtitle": "subtitles.random.anvil.land",
+    "subtitle": "subtitles.halplibe.random.anvil.land",
     "sounds": [
       "random/anvil_land.ogg"
     ]
   },
   "random.anvil.use": {
-    "subtitle": "subtitles.random.anvil.use",
+    "subtitle": "subtitles.halplibe.random.anvil.use",
     "sounds": [
       "random/anvil_use.ogg"
     ]
   },
   "random.bow": {
-    "subtitle": "subtitles.random.bow",
+    "subtitle": "subtitles.halplibe.random.bow",
     "sounds": [
       "random/bow.ogg"
     ]
   },
   "random.bowhit": {
-    "subtitle": "subtitles.random.bowhit",
+    "subtitle": "subtitles.halplibe.random.bowhit",
     "sounds": [
       "random/bowhit1.ogg",
       "random/bowhit2.ogg",
@@ -1032,67 +1032,67 @@
     ]
   },
   "random.break": {
-    "subtitle": "subtitles.random.break",
+    "subtitle": "subtitles.halplibe.random.break",
     "sounds": [
       "random/break.ogg"
     ]
   },
   "random.breath": {
-    "subtitle": "subtitles.random.breath",
+    "subtitle": "subtitles.halplibe.random.breath",
     "sounds": [
       "random/breath.ogg"
     ]
   },
   "random.burp": {
-    "subtitle": "subtitles.random.burp",
+    "subtitle": "subtitles.halplibe.random.burp",
     "sounds": [
       "random/burp.ogg"
     ]
   },
   "random.chest.closed": {
-    "subtitle": "subtitles.random.chest.closed",
+    "subtitle": "subtitles.halplibe.random.chest.closed",
     "sounds": [
       "random/chestclosed.ogg"
     ]
   },
   "random.chest.open": {
-    "subtitle": "subtitles.random.chest.open",
+    "subtitle": "subtitles.halplibe.random.chest.open",
     "sounds": [
       "random/chestopen.ogg"
     ]
   },
   "random.hurt.classic": {
-    "subtitle": "subtitles.random.hurt.classic",
+    "subtitle": "subtitles.halplibe.random.hurt.classic",
     "sounds": [
       "random/classic_hurt.ogg"
     ]
   },
   "random.click": {
-    "subtitle": "subtitles.random.click",
+    "subtitle": "subtitles.halplibe.random.click",
     "sounds": [
       "random/click.ogg"
     ]
   },
   "random.door.close": {
-    "subtitle": "subtitles.random.door.close",
+    "subtitle": "subtitles.halplibe.random.door.close",
     "sounds": [
       "random/door_close.ogg"
     ]
   },
   "random.door.open": {
-    "subtitle": "subtitles.random.door.open",
+    "subtitle": "subtitles.halplibe.random.door.open",
     "sounds": [
       "random/door_open.ogg"
     ]
   },
   "random.drink": {
-    "subtitle": "subtitles.random.drink",
+    "subtitle": "subtitles.halplibe.random.drink",
     "sounds": [
       "random/drink.ogg"
     ]
   },
   "random.eat": {
-    "subtitle": "subtitles.random.eat",
+    "subtitle": "subtitles.halplibe.random.eat",
     "sounds": [
       "random/eat1.ogg",
       "random/eat2.ogg",
@@ -1100,7 +1100,7 @@
     ]
   },
   "random.explode": {
-    "subtitle": "subtitles.random.explode",
+    "subtitle": "subtitles.halplibe.random.explode",
     "sounds": [
       "random/explode1.ogg",
       "random/explode2.ogg",
@@ -1109,19 +1109,19 @@
     ]
   },
   "random.fizz": {
-    "subtitle": "subtitles.random.fizz",
+    "subtitle": "subtitles.halplibe.random.fizz",
     "sounds": [
       "random/fizz.ogg"
     ]
   },
   "random.fuse": {
-    "subtitle": "subtitles.random.fuse",
+    "subtitle": "subtitles.halplibe.random.fuse",
     "sounds": [
       "random/fuse.ogg"
     ]
   },
   "random.glass": {
-    "subtitle": "subtitles.random.glass",
+    "subtitle": "subtitles.halplibe.random.glass",
     "sounds": [
       "random/glass1.ogg",
       "random/glass2.ogg",
@@ -1129,43 +1129,43 @@
     ]
   },
   "random.levelup": {
-    "subtitle": "subtitles.random.levelup",
+    "subtitle": "subtitles.halplibe.random.levelup",
     "sounds": [
       "random/levelup.ogg"
     ]
   },
   "random.orb": {
-    "subtitle": "subtitles.random.orb",
+    "subtitle": "subtitles.halplibe.random.orb",
     "sounds": [
       "random/orb.ogg"
     ]
   },
   "random.pop": {
-    "subtitle": "subtitles.random.pop",
+    "subtitle": "subtitles.halplibe.random.pop",
     "sounds": [
       "random/pop.ogg"
     ]
   },
   "random.splash": {
-    "subtitle": "subtitles.random.splash",
+    "subtitle": "subtitles.halplibe.random.splash",
     "sounds": [
       "random/splash.ogg"
     ]
   },
   "random.hit.successful": {
-    "subtitle": "subtitles.random.hit.successful",
+    "subtitle": "subtitles.halplibe.random.hit.successful",
     "sounds": [
       "random/successful_hit.ogg"
     ]
   },
   "random.wood.click": {
-    "subtitle": "subtitles.random.wood.click",
+    "subtitle": "subtitles.halplibe.random.wood.click",
     "sounds": [
       "random/wood click.ogg"
     ]
   },
   "step.cloth": {
-    "subtitle": "subtitles.step.cloth",
+    "subtitle": "subtitles.halplibe.step.cloth",
     "sounds": [
       "step/cloth1.ogg",
       "step/cloth2.ogg",
@@ -1174,7 +1174,7 @@
     ]
   },
   "step.grass": {
-    "subtitle": "subtitles.step.grass",
+    "subtitle": "subtitles.halplibe.step.grass",
     "sounds": [
       "step/grass1.ogg",
       "step/grass2.ogg",
@@ -1185,7 +1185,7 @@
     ]
   },
   "step.gravel": {
-    "subtitle": "subtitles.step.gravel",
+    "subtitle": "subtitles.halplibe.step.gravel",
     "sounds": [
       "step/gravel1.ogg",
       "step/gravel2.ogg",
@@ -1194,7 +1194,7 @@
     ]
   },
   "step.ladder": {
-    "subtitle": "subtitles.step.ladder",
+    "subtitle": "subtitles.halplibe.step.ladder",
     "sounds": [
       "step/ladder1.ogg",
       "step/ladder2.ogg",
@@ -1204,7 +1204,7 @@
     ]
   },
   "step.sand": {
-    "subtitle": "subtitles.step.sand",
+    "subtitle": "subtitles.halplibe.step.sand",
     "sounds": [
       "step/sand1.ogg",
       "step/sand2.ogg",
@@ -1214,7 +1214,7 @@
     ]
   },
   "step.snow": {
-    "subtitle": "subtitles.step.snow",
+    "subtitle": "subtitles.halplibe.step.snow",
     "sounds": [
       "step/snow1.ogg",
       "step/snow2.ogg",
@@ -1223,7 +1223,7 @@
     ]
   },
   "step.stone": {
-    "subtitle": "subtitles.step.stone",
+    "subtitle": "subtitles.halplibe.step.stone",
     "sounds": [
       "step/stone1.ogg",
       "step/stone2.ogg",
@@ -1234,7 +1234,7 @@
     ]
   },
   "step.wood": {
-    "subtitle": "subtitles.step.wood",
+    "subtitle": "subtitles.halplibe.step.wood",
     "sounds": [
       "step/wood1.ogg",
       "step/wood2.ogg",
@@ -1245,13 +1245,13 @@
     ]
   },
   "tile.piston.in": {
-    "subtitle": "subtitles.tile.piston.in",
+    "subtitle": "subtitles.halplibe.tile.piston.in",
     "sounds": [
       "tile/piston/in.ogg"
     ]
   },
   "tile.piston.out": {
-    "subtitle": "subtitles.tile.piston.out",
+    "subtitle": "subtitles.halplibe.tile.piston.out",
     "sounds": [
       "tile/piston/out.ogg"
     ]
