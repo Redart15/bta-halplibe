@@ -4,3 +4,205 @@ halplibe.recoveryMode.text2=The following actions have been taken:
 halplibe.recoveryMode.action1=Tile entity ticking disabled.
 halplibe.recoveryMode.action2=Tile entity rendering disabled.
 halplibe.recoveryMode.text3=Click anywhere outside this popup to close.
+
+# sound3
+subtitles.ambient.cave.cave=Cave ambience
+subtitles.ambient.weather.rain=Rainfall
+subtitles.ambient.weather.thunder=Thunder
+
+subtitles.damage.fall.big=Big fall
+subtitles.damage.fall.small=Small fall
+subtitles.damage.hurt=Player hurt
+
+subtitles.dig.cloth=Dig cloth
+subtitles.dig.grass=Dig grass
+subtitles.dig.gravel=Dig gravel
+subtitles.dig.sand=Dig sand
+subtitles.dig.snow=Dig snow
+subtitles.dig.stone=Dig stone
+subtitles.dig.wood=Dig wood
+
+subtitles.fire.fire=Fire crackle
+subtitles.fire.ignite=Fire lit
+
+subtitles.fireworks.blast=Firework explodes
+subtitles.fireworks.blast.far=Distant firework explodes
+subtitles.fireworks.blast.large=Large firework explodes
+subtitles.fireworks.blast.large.far=Distant large firework explodes
+subtitles.fireworks.launch=Firework launches
+subtitles.fireworks.twinkle=Firework crackles
+subtitles.fireworks.twinkle.far=Distant firework crackles
+
+subtitles.liquid.lava=Lava bubble
+subtitles.liquid.lava.pop=Lava pop
+subtitles.liquid.splash=Water splash
+subtitles.liquid.water=Water flow
+subtitles.liquid.swim=Swimming
+
+subtitles.minecart.base=Minecart passes by
+subtitles.minecart.inside=Minecart rolls
+
+subtitles.mob.bat.death=Bat death
+subtitles.mob.bat.hurt=Bat hurt
+subtitles.mob.bat.talk=Bat squeaks
+subtitles.mob.bat.wingflap=Bat flying
+subtitles.mob.bat.takeoff=Bat launches
+
+subtitles.mob.blaze.talk=Blaze crackling
+subtitles.mob.blaze.death=Blaze death
+subtitles.mob.blaze.hurt=Blaze hurt
+
+subtitles.mob.cat.hiss=Cat hissing
+subtitles.mob.cat.hurt=Cat hurt
+subtitles.mob.cat.meow=Cat meow
+subtitles.mob.cat.purr=Cat purr
+subtitles.mob.cat.purreow=Cat purrs and meows
+
+subtitles.mob.chicken.hurt=Chicken hurt
+subtitles.mob.chicken.plop.egg=Chicken lays egg
+subtitles.mob.chicken.talk=Chicken chirps
+subtitles.mob.chicken.step=Chicken walks
+
+subtitles.mob.cow.hurt=Cow hurt
+subtitles.mob.cow.talk=Cow moos
+subtitles.mob.cow.step=Cow walks
+
+subtitles.mob.creeper.death=Creeper death
+subtitles.mob.creeper.hurt=Creeper hurt
+
+subtitles.mob.enderdragon.death=Enderdragon death
+subtitles.mob.enderdragon.talk=Enderdragon roars
+subtitles.mob.enderdragon.hurt=Enderdragon hurt
+subtitles.mob.enderdragon.wings=Enderdragon flying
+
+subtitles.mob.endermen.death=Enderman death
+subtitles.mob.endermen.hurt=Enderman hurt
+subtitles.mob.endermen.talk=Enderman murmurs
+subtitles.mob.endermen.teleport=Enderman teleport
+subtitles.mob.endermen.scream=Enderman scream
+subtitles.mob.endermen.angry=Enderman angry murmurs
+
+subtitles.mob.ghast.affectionate.scream=Ghast friendly screams
+subtitles.mob.ghast.fire.fireball=Ghast fireball hurl
+subtitles.mob.ghast.death=Ghast death
+subtitles.mob.ghast.fireball=Ghast fireball
+subtitles.mob.ghast.talk=Ghast screeche
+subtitles.mob.ghast.scream=Ghast scream
+
+subtitles.mob.irongolem.death=Iron golem death
+subtitles.mob.irongolem.hurt=Iron golem hurt
+subtitles.mob.irongolem.throw=Iron golem attack
+subtitles.mob.irongolem.walk=Iron golem walk
+
+subtitles.mob.magmacube.walk=Magmacube hops
+subtitles.mob.magmacube.walk.small=Small magmacube hops
+subtitles.mob.magmacube.jump=Magmacube jump
+
+subtitles.mob.pig.death=Pig death
+subtitles.mob.pig.talk=Pig oink
+subtitles.mob.pig.walk=Pig stroll
+
+subtitles.mob.sheep.talk=Sheep death
+subtitles.mob.sheep.shear=Sheep shear
+subtitles.mob.sheep.walk=Sheep wanders
+
+subtitles.mob.silverfish.hurt=Silverfish hurt
+subtitles.mob.silverfish.death=Silverfish death
+subtitles.mob.silverfish.talk=Silverfish hissing
+subtitles.mob.silverfish.walk=Silverfish scuttles
+
+subtitles.mob.skeleton.death=Skeleton death
+subtitles.mob.skeleton.hurt=Skeleton hurt
+subtitles.mob.skeleton.talk=Skeleton rattle
+subtitles.mob.skeleton.walk=Skeleton haunting
+
+subtitles.mob.slime.jump=Slime jump
+subtitles.mob.slime.walk=Slime hops
+subtitles.mob.slime.walk.small=Small slime hops
+
+subtitles.mob.spider.death=Spider death
+subtitles.mob.spider.talk=Spider clicks
+subtitles.mob.spider.walk=Spider creeps
+
+subtitles.mob.wither.death=Wither death
+subtitles.mob.wither.hurt=Wither hurt
+subtitles.mob.wither.talk=Wither shrieks
+subtitles.mob.wither.shoot.skull=Wither launches skull
+subtitles.mob.wither.spawn=Wither spawn
+
+subtitles.mob.wolf.talk=Wolf barks
+subtitles.mob.wolf.death=Wolf death
+subtitles.mob.wolf.growl=Wolf growl
+subtitles.mob.wolf.howl=Wolf howl
+subtitles.mob.wolf.hurt=Wolf hurt
+subtitles.mob.wolf.panting=Wolf panting
+subtitles.mob.wolf.shake=Wolf shake
+subtitles.mob.wolf.walk=Wolf prowls
+subtitles.mob.wolf.whine=Wolf whine
+
+subtitles.mob.zombie.death=Zombie death
+subtitles.mob.zombie.hurt=Zombie hurt
+subtitles.mob.zombie.infect=Zombie infects
+subtitles.mob.zombie.metal.bang=Metal door banging
+subtitles.mob.zombie.remedy=Zombie start curring
+subtitles.mob.zombie.talk=Zombie groans
+subtitles.mob.zombie.walk=Zombie shambles
+subtitles.mob.zombie.cure=Zombie cured
+subtitles.mob.zombie.wood.bang=Wood door
+subtitles.mob.zombie.wood.break=Zombie breaking door
+
+subtitles.mob.zombiepig.talk=Zombie pigman groan
+subtitles.mob.zombiepig.growl=Zombie pigman angry
+subtitles.mob.zombiepig.death=Zombie pigman death
+subtitles.mob.zombiepig.hurt=Zombie pigman hurt
+
+subtitles.note.bass=Note bass
+subtitles.note.bassattack=Note bass attack
+subtitles.note.bd=Note bd
+subtitles.note.harp=Note harp
+subtitles.note.hat=Note hat
+subtitles.note.pling=Note pling
+subtitles.note.snare=Note snare
+
+subtitles.portal.loop=ortal ambience
+subtitles.portal.travel.end=Portal travel
+subtitles.portal.travel.start=Portal trigger
+
+subtitles.random.anvil_break=Anvil breaking
+subtitles.random.anvil.land=Anvil falling
+subtitles.random.anvil.use=Anvil hammering
+subtitles.random.bow=Bow shot
+subtitles.random.bowhit=Bow hit
+subtitles.random.break=Break
+subtitles.random.breath=Breath
+subtitles.random.burp=Burp
+subtitles.random.chest.closed=Chest close
+subtitles.random.chest.open=Chest open
+subtitles.random.hurt.classic=Hurt
+subtitles.random.click=Click
+subtitles.random.door.close=Door closed
+subtitles.random.door.open=Door opened
+subtitles.random.drink=Potion drinking
+subtitles.random.eat=Food eating
+subtitles.random.explode=Explosion
+subtitles.random.fizz=Fizz
+subtitles.random.fuse=use lit
+subtitles.random.glass=Glass
+subtitles.random.levelup=Level up
+subtitles.random.orb=Orb pickup
+subtitles.random.pop=Pop
+subtitles.random.splash=Splash
+subtitles.random.hit.successful=Hit successful
+subtitles.random.wood.click=Wooden click
+
+subtitles.step.cloth=Step cloth
+subtitles.step.grass=Step grass
+subtitles.step.gravel=Step gravel
+subtitles.step.ladder=Step ladder
+subtitles.step.sand=Step sand
+subtitles.step.snow=Step snow
+subtitles.step.stone=Step stone
+subtitles.step.wood=Step wood
+
+subtitles.tile.piston.in=Piston retracted
+subtitles.tile.piston.out=Piston extended
