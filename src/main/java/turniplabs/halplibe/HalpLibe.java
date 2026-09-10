@@ -10,6 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import turniplabs.halplibe.helper.network.NetworkHandler;
 import turniplabs.halplibe.util.HalpLibeUtils;
+import turniplabs.halplibe.util.Sound3;
 import turniplabs.halplibe.util.TomlConfigHandler;
 import turniplabs.halplibe.util.deathcause.DeathCauseNetworkMessage;
 import turniplabs.halplibe.util.toml.Toml;
@@ -69,8 +70,8 @@ public class HalpLibe implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        LOGGER.info("HalpLibe initialized.");
-
+        HalpLibeUtils.LOGGER.info("HalpLibe initialized.");
+        Sound3.load();
         NetworkHandler.registerNetworkMessage(DeathCauseNetworkMessage::new);
     }
 

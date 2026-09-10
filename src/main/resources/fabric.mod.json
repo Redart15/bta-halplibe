@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "turniplabs.halplibe.HalpLibe"
+    ],
+    "server": [
+      "turniplabs.halplibe.HalpLibeServer"
     ]
   },
   "mixins": [
