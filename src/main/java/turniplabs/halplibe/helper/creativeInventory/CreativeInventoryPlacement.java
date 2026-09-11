@@ -38,14 +38,24 @@ public abstract class CreativeInventoryPlacement {
     }
 
     public static final class After extends CreativeInventoryPlacement {
-        private final Supplier<IItemConvertible> entry;
+        private final ItemStack entry;
 
-        public After(Supplier<IItemConvertible> entry) {
+        public After(ItemStack entry) {
             this.entry = entry;
         }
 
-        public IItemConvertible getEntry() {
-            return entry.get();
+        public After(IItemConvertible convertible, int metadata) {
+            ItemStack stack = convertible.getDefaultStack();
+            stack.setMetadata(metadata);
+            this.entry = stack;
+        }
+
+        public After(IItemConvertible convertible) {
+            this.entry = convertible.getDefaultStack();
+        }
+
+        public ItemStack getEntry() {
+            return entry;
         }
     }
 }

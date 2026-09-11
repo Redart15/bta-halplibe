@@ -26,16 +26,16 @@ public abstract class CreativeMenuContentsMixin {
     @Unique
     private static void spliceList(List<ItemStack> list) {
         for (int i = 0; i < list.size(); i++) {
-            var inList = list.get(i);
+            ItemStack inList = list.get(i);
 
             // :D
             if (inList == null) {
-                list.remove(i);
+                list.remove(i); // nuke it
                 i--;
                 continue;
             }
 
-            var toAdd = CreativeInventoryRegistry.INSTANCE.getAllFor(inList.getItem().namespaceID);
+            List<ItemStack> toAdd = CreativeInventoryRegistry.INSTANCE.getAllFor(inList);
             for (ItemStack stack : toAdd) {
                 list.add(++i, stack);
             }
