@@ -25,6 +25,10 @@ public class CreativeInventoryRegistry {
         this.register(new FakeStack(() -> self, 0), placement);
     }
 
+    public void register(IntObjectPair<IItemConvertible> pair, CreativeInventoryPlacement placement) {
+        this.register(new FakeStack(pair::second, pair.firstInt()), placement);
+    }
+
     public void register(FakeStack self, CreativeInventoryPlacement placement) {
         selfList.add(self);
         placementList.add(placement);
